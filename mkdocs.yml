@@ -1,0 +1,17 @@
+site_name: Meu Glossário de Estudos
+site_description: Um glossário pessoal para anotações e estudos
+theme:
+  name: material
+  features:
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Início: index.md
+  - Letra A:
+    - API: a/api.md
+  - Letra B:
+    - Banco de Dados: b/banco-de-dados.md
+  - Conceitos Gerais:
+    - Arquitetura: conceitos-gerais/arquitetura.md
+  - Sobre: sobre.md
