@@ -9,5 +9,7 @@ Um banco de dados é uma coleção organizada de dados, geralmente armazenada e 
 - **Relacional (SQL):** MySQL, PostgreSQL, Oracle.
 - **Não-Relacional (NoSQL):** MongoDB, Redis, Cassandra.
 
+## Referências
+
 ## Tags
 `#backend` `#dados` `#sql` `#nosql`
