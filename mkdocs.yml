@@ -8,10 +8,10 @@ theme:
 
 nav:
   - Início: index.md
-  - Letra A:
-    - API: a/api.md
-  - Letra B:
-    - Banco de Dados: b/banco-de-dados.md
+  - Arquitetura:
+    - Visão Geral: arquitetura/index.md
+  - Backend:
+    - Visão Geral: backend/index.md
   - Conceitos Gerais:
     - Arquitetura: conceitos-gerais/arquitetura.md
   - Sobre: sobre.md
