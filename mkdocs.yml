@@ -13,5 +13,5 @@ nav:
   - Backend:
     - Visão Geral: backend/index.md
   - Conceitos Gerais:
-    - Arquitetura: conceitos-gerais/arquitetura.md
+    - Arquitetura: conceitos-gerais/index.md
   - Sobre: sobre.md
