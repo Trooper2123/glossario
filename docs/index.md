@@ -12,7 +12,7 @@ Use a barra de pesquisa ou explore por categoria abaixo:
 
 ### Backend
 - [JVM](backend/jvm.md)
-- [Streams (Steams)](backend/steams.md)
+- [Steams](backend/steams.md)
 - [Operadores](backend/operadores.md)
 - [Hash](backend/hash.md)
 
