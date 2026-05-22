@@ -10,9 +10,6 @@ nav:
   - Início: index.md
   - Arquitetura:
     - Visão Geral: arquitetura/index.md
-    - API: arquitetura/api.md
-    - Banco de Dados: arquitetura/banco-de-dados.md
-    - Memória: arquitetura/memoria.md
   - Backend:
     - Visão Geral: backend/index.md
     - Hash: backend/hash.md
@@ -21,5 +18,7 @@ nav:
     - Steams: backend/steams.md
   - Conceitos Gerais:
     - Visão Geral: conceitos-gerais/index.md
-    - Arquitetura: conceitos-gerais/arquitetura.md
+    - API: conceitos-gerais/api.md
+    - Banco de Dados: conceitos-gerais/banco-de-dados.md
+    - Memória: conceitos-gerais/memoria.md
   - Sobre: sobre.md
